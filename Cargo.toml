@@ -1,0 +1,14 @@
+[package]
+name = "freedyndnss"
+version = "0.1.0"
+authors = ["bigsmokecriminal <gvnguyen@outlook.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+config = "0.9"
+dirs = "3.0.1"
+serde_derive = "^1.0.8"
+serde = "^1.0.8"
+reqwest = {version = "0.11.0", features = ["blocking"]}

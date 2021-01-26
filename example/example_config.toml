@@ -1,0 +1,15 @@
+[url]
+url = "https://www.dyndnss.net/updatemanuell.php?user=<domain>&pass=<pass>&updater=manuell"
+
+[[domains]]
+domain = "domain1"
+pass = 8855466
+
+[[domains]]
+domain = "domain2"
+pass = 6543543
+
+[[domains]]
+domain = "domain3"
+pass = 9553241
+
