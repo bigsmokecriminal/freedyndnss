@@ -15,7 +15,7 @@ File will be in `target/release` folder
 Create a config file (see `example/example_config.toml`).
 
 
-You can alcso add it to your cronjobs for automated DynDns updates.
+You can also add it to your cronjobs for automated DynDns updates.
 
 ## Usage
 
